@@ -1,3 +1,6 @@
+# Hi there, I'm Ashish  👋 
+
+## I'm a Learner, Developer, and Student!!
 - 👋 Hi, I’m @ashish chandel
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning node,express,mongoose and mongodb.
